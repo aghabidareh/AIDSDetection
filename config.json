@@ -1,0 +1,1 @@
+{"batch_size": 32, "learning_rate": 0.001, "num_epochs": 50, "input_size": 13, "output_size": 2}
